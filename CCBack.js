@@ -4,8 +4,8 @@
 // @version      1.0
 // @description  [버그 수정 최종판] 내가 쓰려고 만듦, 메시지 양이 많으면 로딩 오래 걸리고, 멈출 때마다 수시로 스크롤 내려줘야 함. 참고하세요.
 // @author       오므라이스
-// @updateURL    https://github.com/CHOCOiceG/DORAMA/640a6692e25eea60e220fe1794c70fa0130c145d/raw/CCBack.js
-// @downloadURL  https://github.com/CHOCOiceG/DORAMA/640a6692e25eea60e220fe1794c70fa0130c145d/raw/CCBack.js
+// @updateURL    https://github.com/CHOCOiceG/DORAMA/raw/refs/heads/main/CCBack.js
+// @downloadURL  https://github.com/CHOCOiceG/DORAMA/raw/refs/heads/main/CCBack.js
 // @match        https://crack.wrtn.ai/*
 // @grant        GM_addStyle
 // @require      https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js
