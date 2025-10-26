@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         크랙 채팅 백업 떠먹기
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.05
 // @description  [버그 수정 최종판] 내가 쓰려고 만듦, 메시지 양이 많으면 로딩 오래 걸리고, 멈출 때마다 수시로 스크롤 내려줘야 함. 참고하세요.
 // @author       오므라이스
 // @updateURL    https://github.com/CHOCOiceG/DORAMA/raw/refs/heads/main/CCBack.js
@@ -20,8 +20,8 @@
     // ✨ 사용자 설정 영역 ✨
     // =====================================================================================
     const MESSAGE_WRAPPER_CLASS = "message-item";
-    const AI_ROLE_CLASS = "css-gm3gal";
-    const MESSAGE_CONTENT_CLASS = "css-jswf15";
+    const AI_ROLE_CLASS = "css-ae5fn1";
+    const MESSAGE_CONTENT_CLASS = "css-14pez97";
     // =====================================================================================
 
 
